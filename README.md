@@ -133,7 +133,7 @@ Each module runs independently and can be selectively enabled.
 
 ```bash
 git clone https://github.com/odivex/OdiRecon.git
-cd odirecon
+cd  OdiRecon
 ```
 
 ### 2️⃣ Install Requirements
